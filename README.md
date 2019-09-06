@@ -3,5 +3,4 @@
 Collection of [KiCad](http://kicad-pcb.org/) imports.
 
 * [Wemos D1 mini](https://github.com/jerome-labidurie/d1_mini_kicad)
-* SnapEDA
-    * [Socket DIP 8 2.54mm THT](https://www.snapeda.com/parts/1-2199298-2/TE%20Connectivity/view-part/)
+* [3306P-1-104 100kΩ Trimmer Potentiometer THT 0.2W Bourns](https://www.digikey.com/products/en?keywords=3306P-104-ND) RS: 488-5366
